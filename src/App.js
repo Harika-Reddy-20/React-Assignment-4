@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from './Components/Home';
-import Student, { New } from './Components/Student';
+import Student from './Components/Student';
 import Contactus from './Components/Contactus';
 import Navigator from './Components/Navigator';
 
